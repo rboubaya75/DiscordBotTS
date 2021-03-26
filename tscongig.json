@@ -1,0 +1,22 @@
+{
+	"compilerOptions": {
+		"target": "es2017",
+		"module": "commonjs",
+		"outDir": "./build",
+		"rootDir": ".",
+		"declaration": false,
+		"strict": true,
+		"sourceMap": true,
+		"noImplicitAny": true,
+		"alwaysStrict": true,
+		"typeRoots": [
+            "./node_modules/@types"
+        ],
+		"exclude": [
+			"./tests/",
+			"./node_modules/",
+			"./dist/"
+		  ]
+	}
+	
+}
