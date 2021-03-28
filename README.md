@@ -1,11 +1,10 @@
 # DiscordBotTS
 
-Dates:
-For 5 consecutive days from 16rd of Mars to the 21rst of March. 
+Proect duration: 5 consecutive days from 16rd of Mars to the 21rst of March. 
 
 Why the project was launched ? :
-The purpose of this group project was to allow us to work in a collaborative way. It was also an opportunity to better understand node js and to discover Typescript. 
-What was launched 
+The purpose of this group project was to allow us to work in a collaborative way. It was also an opportunity to better understand Node js and to discover Typescript. 
+What was launched:
 A Discord bot, which has many functionalities. 
 
 Difficulties: 
