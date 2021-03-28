@@ -25,4 +25,11 @@ This function takes a list of students, shuffles it and returns the half: This w
 Cron set-up: I have set-up Cron to fix the pause hour for my classmates, as we worked hard and couldn't see the time going...
 
 
+How to use this bot ?
+First, go to https://discord.com/developers/applications and create a bot. A token should be given to you. Use your personal token to run my bot. 
+The script is written on Typscript, so could be run directly thanks to ts-node. There is no need to compile it in Javascript. 
+So, you could simply run the main.js like this: ts-node main.js
+Feel free to add more functionalities, but do not forget to test them =) ! See my test file to discover more. 
+
+
 
