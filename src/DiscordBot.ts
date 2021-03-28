@@ -90,27 +90,12 @@ export class Team_Rac_Mom_Jor {
         let channel = <TextChannel>client.channels.cache.get("821342065844682761")
 
         channel.send('PAUUUUUUUUUUUUUUUUUUSE! ETEIGNEZ LES VMS !');
-        }
-);
+        });
 
 
 
 				this.client.login(this.config.token)
 		}
 	}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 client.login(process.env.token)
