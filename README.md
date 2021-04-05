@@ -1,4 +1,4 @@
-# Welcome to first project in Typscript
+# Welcome to my first project in Typscript
 
 I have  undertaken this project in the framework of my professional training to become a Cloud Developer. (SIMPLON School).
 
